@@ -1,0 +1,21 @@
+ticket_id,customer_id,channel,created_at,description
+10001,C-87421,email,2025-09-18 10:12:00,"Subject: Paket hasarlı – iade talebi
+Merhaba, siparişim (#928331) 18.09.2025'te geldi ama 'BaristaPro Coffee Machine' su kaçırıyor. Sadece 1 kez denedim. 1 adet. İade/Değişim istiyorum. Fotoğraf ekledim. Müşteri: laura.mueller@example.com"
+10002,C-44110,email,2025-09-15 08:57:00,"Betreff: Falsche Größe geliefert
+Bestellung #772199, Produkt: Sneaker RunFast 42. Angekommen ist Größe 41 (passt nicht). Menge: 2 Paar. Bitte Austausch.
+Kunde: markus.schneider@mail.de"
+10003,C-19907,chat,2025-09-20 19:03:00,"Hi, I ordered 2x 'Sneaker X200' last week. Order (#472233). One pair wrong size. Arrived yesterday (20.09.2025). Need exchange. Thx. john.doe77@gmail.com"
+10004,C-55220,whatsapp,2025-09-21 09:40:00,"kargo geç geldi ya! 12.09 bekliyodum, 19.09.2025'te anca geldi. sip: 883421, ürün: Yoga Mat Pro. memnun değilim, para iadesi düşünüyorum. müşteri: d.jones@hotmail.com"
+10005,C-33005,email,2025-09-21 16:22:00,"Subject: Refund request
+Order: #662918 - 3x ""Gaming Mouse X200"". One unit DOA (left click stuck). Incident date: 21.09.2025. Customer: sofia.romero@gmail.com. Please refund or replace."
+10006,C-28771,email,2025-09-19 11:11:00,"Bonjour, colis reçu en retard (prévu 14/09, reçu 18/09/2025). Commande n° #771010. Produit: 'Blender Turbo 900'. Je veux un geste commercial. Client: pierre.martin@example.fr"
+10007,C-94410,chat,2025-09-22 13:55:00,Product arrived with missing screws. order id: 901122. product SKU: CHAIR-AX5. qty affected: 4. Please send spare parts. email: nina.kovacs@shop.hu
+10008,C-50001,email,2025-09-17 07:20:00,"Betreff: Verpackung beschädigt, Inhalt ok
+OrderID #770555
+Produkt: Wasserkocher K-600
+Nur Verpackung ezik geldi, ürün sağlam. iade istemiyorum. müşteri: melis.yilmaz@outlook.com"
+10009,C-81117,phone_note,2025-09-18 17:09:00,"CS agent note: caller says received wrong color for 'T-Shirt Basic M' (expected black, got blue). Order #550010. Qty 1. Wants exchange. Email: tom.smith@gmail.com"
+10010,C-72229,instagram_dm,2025-09-19 22:41:00,"DM: kargo kutusu yırtık geldi, içindeki 'Ceramic Bowl Set' çatlak. sipariş no: 440044. 2 takım almıştım, 1 takım sorunlu. mail: ayse.deniz@icloud.com"
+10011,C-14440,email,2025-09-20 14:35:00,"Subject: Double charge
+I think I was charged twice for Order #331331 (Vacuum Cleaner V10). Please check billing and refund the extra. customer: luca.romani@example.it"
+10012,C-95550,email,2025-09-22 09:05:00,"Hallo Team, Lieferung war OK aber 'Winter Jacket L' fermuar bozuk. Bestellnr: #880880. 2 adet almistim, 1 tanesi kusurlu. Musteri: selin.arslan@gmail.com"

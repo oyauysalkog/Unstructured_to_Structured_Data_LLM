@@ -1,0 +1,13 @@
+ticket_id,customer_id,channel,created_at,order_id,product_name,issue_type,quantity_affected,incident_date,customer_email,refund_intent,exchange_intent,sentiment
+10001,C-87421,email,2025-09-18 10:12:00,928331,BaristaPro Coffee Machine,damaged,1,18.09.2025,laura.mueller@example.com,İade/Değişim istiyorum.,İade/Değişim istiyorum.,Frustrated
+10002,C-44110,email,2025-09-15 08:57:00,772199,Sneaker RunFast 42.,wrong size,2,,markus.schneider@mail.de,,Bitte Austausch.,
+10003,C-19907,chat,2025-09-20 19:03:00,472233,Sneaker X200,wrong size,One pair,20.09.2025,john.doe77@gmail.com,,Need exchange,Neutral
+10004,C-55220,whatsapp,2025-09-21 09:40:00,883421,Yoga Mat Pro,late delivery,,19.09.2025,d.jones@hotmail.com,para iadesi düşünüyorum.,,memnun değilim
+10005,C-33005,email,2025-09-21 16:22:00,662918,Gaming Mouse X200,damaged,One,21.09.2025,sofia.romero@gmail.com,Please refund or replace.,Please refund or replace.,
+10006,C-28771,email,2025-09-19 11:11:00,771010,Blender Turbo 900,late delivery,,18/09/2025,pierre.martin@example.fr,Yes,,Negative
+10007,C-94410,chat,2025-09-22 13:55:00,901122,CHAIR-AX5,missing parts,4,,nina.kovacs@shop.hu,,,
+10008,C-50001,email,2025-09-17 07:20:00,770555,Wasserkocher K-600,damaged,,,melis.yilmaz@outlook.com,No,,
+10009,C-81117,phone_note,2025-09-18 17:09:00,550010,T-Shirt Basic M,wrong item,1,,tom.smith@gmail.com,,Wants exchange,
+10010,C-72229,instagram_dm,2025-09-19 22:41:00,440044,Ceramic Bowl Set,damaged,1,,ayse.deniz@icloud.com,,,Negative
+10011,C-14440,email,2025-09-20 14:35:00,331331,Vacuum Cleaner V10,double charge,,,luca.romani@example.it,refund the extra,,Frustrated
+10012,C-95550,email,2025-09-22 09:05:00,880880,Winter Jacket L,damaged,1,,selin.arslan@gmail.com,,,Negative
