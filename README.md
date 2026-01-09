@@ -1,2 +1,14 @@
 # Unstructured_to_Structured_Data
-Tidy customer complaints from different sources and types
+
+Use Case: Structuring Multi-Channel Complaints
+
+"LangExtract: The Next-Gen Approach to Text Extraction
+
+LangExtract isn’t just another library; it’s a next-generation framework that redefines how we extract information from unstructured text with Large Language Models (LLMs).
+
+Where traditional methods might fall short, LangExtract makes the process transparent, auditable, and repeatable. By being span-based, it links every extracted field back to its exact location in the original text, providing full traceability and enabling teams to catch errors faster.
+
+In short, LangExtract can help you turn messy, multi-channel customer feedback into structured, reliable data you can trust for decision-making."
+
+for detailed context read:
+https://medium.com/ai-in-plain-english/with-langextract-6b4fb2986886
