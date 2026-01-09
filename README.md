@@ -1,3 +1,5 @@
+![html_langextract_details](https://github.com/user-attachments/assets/9bdff748-7d12-4778-86e3-a1d38d53a851)
+
 # Unstructured_to_Structured_Data
 
 Use Case: Structuring Multi-Channel Complaints
@@ -12,3 +14,4 @@ In short, LangExtract can help you turn messy, multi-channel customer feedback i
 
 for detailed context read:
 https://medium.com/ai-in-plain-english/with-langextract-6b4fb2986886
+
